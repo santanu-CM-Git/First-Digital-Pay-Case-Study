@@ -2,7 +2,7 @@
 
 ## About project
 
-First Digital Pay is a modern fintech payment platform designed to simplify digital transactions, merchant onboarding, and financial management through a seamless web experience. The project focused on transforming high-fidelity Figma prototypes into a fast, scalable, and conversion-focused website with interactive UI sections, dynamic content handling, and secure payment-focused user flows.
+First Digital Pay is a modern fintech platform that simplifies digital payments and merchant onboarding. This project successfully translated high-fidelity Figma prototypes into a fast, scalable web experience. Key highlights include interactive UI elements, dynamic content handling, and secure, seamless payment flows optimized for user conversion.
 
 ## Problem
 
